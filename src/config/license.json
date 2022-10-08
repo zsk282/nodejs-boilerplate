@@ -1,0 +1,16 @@
+{
+    "sample": {
+        "id": "SAMPLE",
+        "name": "Sample Module",
+        "description": "Sample module",
+        "version": "1.0.0",
+        "enable": false
+    },
+    "dining": {
+        "id": "DINING_01",
+        "name": "Dining Module",
+        "description": "Dining module",
+        "version": "1.0.0",
+        "enable": true
+    }
+}
